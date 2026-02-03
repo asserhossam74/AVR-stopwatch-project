@@ -1,0 +1,13 @@
+﻿===== D:\embeeded systems cource\AVR\AVR projects\interfacing_1_project_stopwatch\.metadata\.plugins\org.eclipse.cdt.ui\dialog_settings.xml =====
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+</section>
+===== D:\embeeded systems cource\AVR\AVR projects\interfacing_1_project_stopwatch\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml =====
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1727628755170_0" label="Window Working Set" name="Aggregate for window 1727628755170"/>
+</workingSetManager>

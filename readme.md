@@ -31,7 +31,7 @@ The project was developed using **Eclipse CDT** with AVR toolchains, focusing on
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 The project follows a **bare-metal embedded architecture**:
 

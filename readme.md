@@ -204,12 +204,6 @@ interfacing_1_project_stopwatch/
 ├── Last Loaded stop_watch_simulation.pdsbak  # Proteus backup
 │
 ├── Screenshots/                      # Project documentation images
-│   ├── image.png                    # Circuit diagram/overview
-│   ├── image-1.png                  # Increment mode display
-│   ├── image-2.png                  # Countdown mode display
-│   ├── image-3.png                  # Button configuration
-│   ├── image-4.png                  # LED indicators
-│   ├── image-5.png                  # System operation
 │   └── image-6.png                  # Application interface
 │
 ├── .gitignore                       # Git ignore rules for AVR projects
@@ -384,20 +378,6 @@ This project includes a complete **Proteus Design Suite** simulation for testing
 - **stop_watch_simulation.pdsprj**: Main Proteus project file
 - Contains complete circuit schematic with ATmega32, seven-segment displays, push buttons, and LEDs
 - Allows full functional testing of the stopwatch system
-
-### Simulation Features
-
-**Virtual Hardware Testing**
-- Test all functionality before building physical circuit
-- Debug code with real-time variable monitoring
-- Verify timing accuracy with virtual instruments
-- Test edge cases and boundary conditions safely
-
-**Circuit Validation**
-- Verify component connections and wiring
-- Test power consumption and current draw
-- Validate signal timing and propagation
-- Identify potential hardware issues early
 
 ### Running the Simulation
 
